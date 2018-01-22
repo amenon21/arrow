@@ -1,0 +1,16 @@
+{
+  "name": "arrowjs",
+  "version": "1.0.0",
+  "description": "Arrow Testing project",
+  "scripts": {
+    "start": "webpack-dev-server --inline --progress --port 8282",
+    
+  },
+  "license": "MIT",
+  "dependencies": {
+   
+  },
+  "devDependencies": {
+    
+  }
+}
