@@ -7,7 +7,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "apache-arrow": "^0.2.0"
+    "apache-arrow": "^0.2.0",
+    "file-system": "^2.2.2",
+    "fs-": "^1.0.0"
   },
   "devDependencies": {}
 }
